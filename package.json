@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "core-js": "^3.8.3",
     "math-rs": "^0.1.5",
     "sass": "^1.66.1"
   },

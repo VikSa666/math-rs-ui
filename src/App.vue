@@ -1,5 +1,5 @@
 <template>
-  <h1>Welcome!</h1>
+  <h1>Marhaba!</h1>
   <div>
     <textarea name="matA" id="matA" cols="30" rows="10" v-model="matA" />
     <textarea name="matB" id="matB" cols="30" rows="10" v-model="matB" />
