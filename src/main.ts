@@ -1,5 +1,6 @@
 import { createApp } from "vue";
 import "./style.css";
 import App from "./App.vue";
+import init from "math-rs";
 
-createApp(App).mount("#app");
+init().then(() => createApp(App).mount("#app"));
